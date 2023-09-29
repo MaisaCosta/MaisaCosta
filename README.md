@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**MaisaCosta/MaisaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :vulcan_salute: Olá, meu nome é Maísa! 
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=maisaCosta&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=maisaCosta&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/maisaCosta?label=Follow&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.imgur.com/FGXFzCt.jpg" width="250px" align="right" >
+<p align="left" style="text-align: justify">
+  
+Sou Maísa Costa, mas pode me chamar apenas de Maísa. Sou **Desenvolvedora Web Full-Stack** desde maio de 2023, quando iniciei um bootcamp F atualmente,  estou estudando JavaScript com foco em backend. Antes de começar a estudar programação, eu trabalhava como professora dos idiomas português e espanhol, durantes muitos anos dediquei minha vida a lencionar idiomas, porém neste momento estou em processo de transição de carreira. 
+
+</p>
+
+[![Linkedin](https://img.shields.io/badge/maisa%20costa%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](/) 
+<a href="mailto:maisa1310@gmail.com">
+  <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+</a>
+
+### My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,mysql,python)](https://skillicons.dev)
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=maisaCosta&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+
