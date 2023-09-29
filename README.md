@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/" width="250px" align="right" >
 <p align="left" style="text-align: justify">
   
-Sou Maísa Costa, mas pode me chamar apenas de Maísa. Sou **Desenvolvedora Web Full-Stack** desde maio de 2023, quando iniciei um bootcamp F atualmente,  estou estudando JavaScript com foco em backend. Antes de começar a estudar programação, eu trabalhava como professora dos idiomas português e espanhol, durantes muitos anos dediquei minha vida a lencionar idiomas, porém neste momento estou em processo de transição de carreira. 
+Sou Maísa Costa, mas pode me chamar apenas de Maísa. Sou **Desenvolvedora Web Full-Stack** desde maio de 2023, quando iniciei um bootcamp F atualmente,  estou estudando JavaScript com foco em backend. Antes de começar a estudar programação, eu trabalhava como professora dos idiomas português e espanhol, durante muitos anos dediquei minha vida a lencionar idiomas, porém neste momento, estou em processo de transição de carreira. 
 
 </p>
 
