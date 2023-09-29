@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=maisaCosta&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=maisaCosta&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/maisaCosta?label=Follow&style=social)
 
-<img src="https://i.imgur.com/FGXFzCt.jpg" width="250px" align="right" >
+<img src="https://i.imgur.com/" width="250px" align="right" >
 <p align="left" style="text-align: justify">
   
 Sou Maísa Costa, mas pode me chamar apenas de Maísa. Sou **Desenvolvedora Web Full-Stack** desde maio de 2023, quando iniciei um bootcamp F atualmente,  estou estudando JavaScript com foco em backend. Antes de começar a estudar programação, eu trabalhava como professora dos idiomas português e espanhol, durantes muitos anos dediquei minha vida a lencionar idiomas, porém neste momento estou em processo de transição de carreira. 
