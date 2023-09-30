@@ -17,7 +17,7 @@ Sou Maísa Costa, mas pode me chamar apenas de Maísa. Sou **Desenvolvedora Web 
 </a>
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,,nextjs,nodejs,sql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,,nextjs,nodejs,Mysql,python)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=maisaCosta&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
